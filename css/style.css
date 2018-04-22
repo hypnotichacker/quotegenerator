@@ -1,0 +1,47 @@
+
+
+body {
+  color: #000;
+  background-color: #F0F8FF;
+}
+
+
+h1 {
+  font-family: sans;
+  font-family: 'Niconne', cursive;
+}
+
+p {
+  font-family: sans;
+  font-style: italic;
+}
+
+.quotes {
+  margin-top: 50px;
+  margin-bottom: 10px;
+ }
+.quote {
+  margin: 5px 5px;
+  
+}
+
+#getQuote {
+  cursor: pointer;
+  box-shadow: 8px 10px 20px 0 rgba(46, 61, 73, 2);
+}
+
+img {
+    box-shadow: 8px 10px 20px 0 rgba(46, 61, 73, 2);
+  
+  border-radius: 10px;
+}
+
+#pdiv1 {
+  margin-top: 15px;
+}
+
+html {
+  margin-bottom: 10px;
+}
+
+
